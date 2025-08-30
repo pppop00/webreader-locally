@@ -1,0 +1,21 @@
+# Local Web Reader Dependencies
+# Cost-effective web scraping and AI analysis using local models
+
+# Core dependencies
+requests>=2.31.0          # Web scraping and HTTP requests
+beautifulsoup4>=4.12.0    # HTML parsing and content extraction
+ollama>=0.1.7             # Local AI model interface (FREE after setup)
+
+# Jupyter notebook support (optional)
+ipython>=8.0.0            # Enhanced Python shell and notebook support
+jupyter>=1.0.0            # Jupyter notebook environment
+markdown>=3.4.0           # Markdown processing and display
+
+# Development and testing (optional)
+pytest>=7.0.0             # Testing framework
+black>=23.0.0             # Code formatting
+flake8>=6.0.0             # Code linting
+
+# Note: Ollama must be installed separately
+# Visit https://ollama.ai for installation instructions
+# Models are free to download and run locally

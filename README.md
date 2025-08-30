@@ -6,7 +6,7 @@ A powerful web scraping and content analysis tool that uses **local AI models** 
 
 ---
 
-## 🎯 **For HR & Management Teams**
+## 🎯 **
 
 ### **What This Project Does**
 - **Web Content Analysis**: Automatically scrapes and summarizes website content

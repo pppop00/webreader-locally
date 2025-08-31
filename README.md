@@ -283,20 +283,6 @@ flake8 web_reader_local.py
 
 ---
 
-## 📞 **Support & Contact**
-
-### **For Business Inquiries**
-- **ROI Calculations**: Contact for custom cost-benefit analysis
-- **Enterprise Deployment**: Scaling and integration support
-- **Training & Workshops**: Team training on AI tools
-
-### **For Technical Support**
-- **GitHub Issues**: Bug reports and feature requests
-- **Documentation**: Comprehensive guides and examples
-- **Community**: Join our discussions and share use cases
-
----
-
 ## 📄 **License & Legal**
 
 This project is open source under the MIT License. 
@@ -305,19 +291,6 @@ This project is open source under the MIT License.
 - **Llama 3.2**: Meta's custom license (commercial use allowed)
 - **Ollama**: Apache 2.0 License
 - **All Dependencies**: Compatible open-source licenses
-
----
-
-## 🎉 **Success Stories**
-
-> *"Reduced our content analysis costs by $2,400/year while improving data privacy compliance."*
-> — Tech Startup CTO
-
-> *"Perfect for our research team - no API limits and complete control over our analysis pipeline."*
-> — Fortune 500 Research Director
-
-> *"Easy to deploy and maintain. Our developers love the flexibility and cost savings."*
-> — DevOps Manager
 
 ---
 
